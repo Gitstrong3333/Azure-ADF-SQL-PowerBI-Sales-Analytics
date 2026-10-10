@@ -8,6 +8,8 @@ Designed and implemented a cloud-based sales data pipeline using Azure Data Fact
 
 The project demonstrates data ingestion, SQL staging, dimensional data warehouse design, pipeline orchestration, semantic modeling, DAX measures, and interactive business intelligence reporting.
 
+I developed an Azure Data Factory pipeline to ingest sales data from Azure Blob Storage into Azure SQL Database. I implemented a dimensional data warehouse with fact and dimension tables. I then imported the tables into Power BI, configured a star-schema semantic model with relationships and DAX measures, and developed an interactive sales performance report with KPIs, product analysis, geographic analysis, and date filtering.
+
 ## Technology Stack
 
 - **Cloud Platform:** Microsoft Azure
