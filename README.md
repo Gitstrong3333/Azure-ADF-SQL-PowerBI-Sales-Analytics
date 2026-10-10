@@ -103,3 +103,6 @@ The completed implementation demonstrates a working CSV-to-Power-BI reporting pi
 - Archive successfully processed files.
 - Expand SCD Type 2 automation.
 - Introduce monitoring and deployment automation.
+- ## Project Documentation
+
+[View Complete Project Documentation (PDF)](docs/Azure_ADF_SQL_PowerBI_GitHub_Screenshot_Guide.pdf)
