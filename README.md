@@ -1,4 +1,4 @@
-# Azure-ADF-SQL-PowerBI-Sales-Analytics
+# Azure-ADF-SQL-PowerBI-Sales-Analytics- 
 End-to-end Azure Data Engineering project using Azure Data Factory, Azure SQL Database, dimensional modeling, Power BI semantic model, and interactive sales reporting.
 # Azure Data Factory to Power BI — End-to-End Sales Analytics
 
@@ -106,6 +106,11 @@ The completed implementation demonstrates a working CSV-to-Power-BI reporting pi
 - Expand SCD Type 2 automation.
 - Introduce monitoring and deployment automation.
 
+- Project Documentation
+
+During the development of this end-to-end Azure Data Factory, Azure SQL Database, and Power BI project, approximately 220 screenshots were captured to document implementation, configuration, testing, troubleshooting, and validation.
+
+For this GitHub portfolio, I have selected the most relevant screenshots to demonstrate the key stages of the project, from data ingestion and dimensional modeling to Power BI semantic modeling and interactive reporting.
 
 
 
